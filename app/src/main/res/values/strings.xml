@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppWSRetrofit2</string>
+    <string name="btn_consumir">Consumir WS</string>
+</resources>
